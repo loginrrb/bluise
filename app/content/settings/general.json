@@ -1,10 +1,10 @@
 {
   "title": "Know the solutions from WEBtrio",
   "titleTemplate": "home",
-  "welcomeText": "# .\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "welcomeText": "C﻿oming Soon",
+  "logo": "/images/uploads/main-logo-black-.png",
+  "icon": "/images/uploads/main-logo-black-.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
-  "seoMetaImage": ""
+  "seoDescription": "its a test site of webtrio\n",
+  "seoMetaImage": "/images/uploads/main-logo-black-.png"
 }
