@@ -1,3 +1,10 @@
 [build]
   publish = "dist"
   command = "yarn generate"
+
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  changeFreq = "daily"
+  priority = 0.5
