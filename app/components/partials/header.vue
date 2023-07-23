@@ -1,6 +1,6 @@
 <template>
   <header class="flex items-center py-4 md:py-8">
-    <meta name="viewport" content="width=device-width, initial-scale=.9, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=.9">
     <div class="header__logo">
       <nuxt-link to="/">
         <img :src="logo" alt="Logo" style="width: 150px" />
